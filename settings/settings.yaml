@@ -1,9 +1,9 @@
 port: 8080
 database:
-  host: containers-us-west-121.railway.app
-  port: 6964
+  host: containers-us-west-185.railway.app
+  port: 6921
   user: root
-  password: 3XPqQ8TK4eskYJnh77Ki
+  password: ntyZKoicP3fwC59xljmv
   name: bdnube
 
 
