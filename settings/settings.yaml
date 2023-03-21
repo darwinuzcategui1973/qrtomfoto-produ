@@ -1,0 +1,23 @@
+port: 8080
+database:
+  host: containers-us-west-121.railway.app
+  port: 6964
+  user: root
+  password: 3XPqQ8TK4eskYJnh77Ki
+  name: bdnube
+
+
+
+#  name: backenProducto
+# host: 127.0.0.1
+# password: Gmd123456**
+
+# host: 192.168.1.101
+#  port: 3306
+#  user: darwin
+#  password: 123456
+#  name: test
+
+# usuario generico solo la basedatos
+# qrtomfoto
+# Tom123456**-'
